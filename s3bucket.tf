@@ -1,3 +1,3 @@
-resource "aws_s3_bucket" "adam_test_bucket" {
-  bucket   = "adam-test-bucket"
+resource "aws_s3_bucket" "adamatyork-test-bucket" {
+  bucket   = "adamatyork-test-bucket"
 }
