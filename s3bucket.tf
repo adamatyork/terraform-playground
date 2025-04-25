@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "mybucket" {
-  bucket   = "Grouse121-test-bucket"
+  bucket   = "grouse121-test-bucket"
 }
